@@ -15,6 +15,7 @@ class Test(unittest.TestCase):
         t.print_matrix()
 
         (a, b) = t.alignments()
+        print '---------------'
         print a
         print b
 
