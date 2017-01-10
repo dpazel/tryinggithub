@@ -1,6 +1,6 @@
 import unittest
 
-from similarity.nw_algorithm import NWAlgorithm
+from similarity.nw_similarity import NWAlgorithm
 
 
 class Test(unittest.TestCase):
