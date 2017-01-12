@@ -3,7 +3,7 @@ import unittest
 from similarity.nw_similarity import NWAlgorithm
 
 
-class Test(unittest.TestCase):
+class TestNewSimilarity(unittest.TestCase):
     def setUp(self):
         pass
 
@@ -22,4 +22,5 @@ class Test(unittest.TestCase):
 
 if __name__ == "__main__":
     # import sys;sys.argv = ['', 'Test.testSimple']
+    print 'Starting new similarity tests'
     unittest.main()
