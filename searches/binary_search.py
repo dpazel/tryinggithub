@@ -51,5 +51,3 @@ def find_lower(alist, item):
             first = midpoint + 1
 
     return found
-
-# test line for branching
